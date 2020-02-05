@@ -41,6 +41,8 @@ target 'makabea' do
 
   pod 'BVLinearGradient', :path => '../node_modules/react-native-linear-gradient'
 
+  pod 'RNSVG', :path => '../node_modules/react-native-svg'
+
   target 'makabeaTests' do
     inherit! :search_paths
     # Pods for testing

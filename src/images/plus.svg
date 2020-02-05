@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 455 455" style="enable-background:new 0 0 455 455;" xml:space="preserve">
-<polygon points="455,212.5 242.5,212.5 242.5,0 212.5,0 212.5,212.5 0,212.5 0,242.5 212.5,242.5 212.5,455 242.5,455 242.5,242.5 
-	455,242.5 "/>
+	 viewBox="0 0 455 455" style="fill: #ffffff; enable-background: new 0 0 455 455" xml:space="preserve">
+<polygon points="390,202.6 214.4,202.6 214.4,34 189.6,34 189.6,202.6 14,202.6 14,226.4 189.6,226.4 189.6,395 214.4,395 214.4,226.4 390,226.4"/>
 <g>
 </g>
 <g>
@@ -34,4 +33,5 @@
 </g>
 <g>
 </g>
+    <polyline fill="rgb(255, 255, 255)" points="212,155 46,5"/>
 </svg>
